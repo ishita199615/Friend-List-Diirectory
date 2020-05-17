@@ -1,1 +1,1 @@
-# Friend-List-Diirectory
+# Friend-List-Directory
